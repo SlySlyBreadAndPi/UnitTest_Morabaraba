@@ -1,0 +1,15 @@
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba\Debug\netcoreapp2.0\Morabaraba.deps.json
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba\Debug\netcoreapp2.0\Morabaraba.runtimeconfig.json
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba\Debug\netcoreapp2.0\Morabaraba.runtimeconfig.dev.json
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba\Debug\netcoreapp2.0\Morabaraba.dll
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba\Debug\netcoreapp2.0\Morabaraba.pdb
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba\Debug\netcoreapp2.0\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\i\Morabaraba\Debug\netcoreapp2.0\Morabaraba.csproj.CoreCompileInputs.cache
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\i\Morabaraba\Debug\netcoreapp2.0\Morabaraba.AssemblyInfoInputs.cache
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\i\Morabaraba\Debug\netcoreapp2.0\Morabaraba.AssemblyInfo.cs
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\i\Morabaraba\Debug\netcoreapp2.0\Morabaraba.dll
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\i\Morabaraba\Debug\netcoreapp2.0\Morabaraba.pdb

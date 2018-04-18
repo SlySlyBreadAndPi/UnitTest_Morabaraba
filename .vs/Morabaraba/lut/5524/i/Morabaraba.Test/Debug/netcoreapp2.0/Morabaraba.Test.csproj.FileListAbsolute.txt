@@ -1,0 +1,14 @@
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba.Test\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba.Test\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba.Test\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba.Test\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba.Test\Debug\netcoreapp2.0\Morabaraba.Test.deps.json
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba.Test\Debug\netcoreapp2.0\Morabaraba.Test.runtimeconfig.json
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba.Test\Debug\netcoreapp2.0\Morabaraba.Test.runtimeconfig.dev.json
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba.Test\Debug\netcoreapp2.0\Morabaraba.Test.dll
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\b\Morabaraba.Test\Debug\netcoreapp2.0\Morabaraba.Test.pdb
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\i\Morabaraba.Test\Debug\netcoreapp2.0\Morabaraba.Test.csproj.CoreCompileInputs.cache
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\i\Morabaraba.Test\Debug\netcoreapp2.0\Morabaraba.Test.AssemblyInfoInputs.cache
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\i\Morabaraba.Test\Debug\netcoreapp2.0\Morabaraba.Test.AssemblyInfo.cs
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\i\Morabaraba.Test\Debug\netcoreapp2.0\Morabaraba.Test.dll
+C:\Users\g15s3727\Source\Repos\Morabaraba-2\Morabaraba\.vs\Morabaraba\lut\0\i\Morabaraba.Test\Debug\netcoreapp2.0\Morabaraba.Test.pdb
